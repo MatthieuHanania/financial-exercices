@@ -42,7 +42,7 @@ En simulant 3 actions, aux valeurs initiales de 50, 100 et 150, dans 14% des sim
 
 > MonteCarlo\MonteCarlo.ipynb
 
-Etude à nouveau du principe de Monte Carlo, cette fois en se basant sur un portefeuille composé d'action réelles. 
+Etude à nouveau du principe de Monte Carlo, cette fois en se basant sur un portefeuille composé d'actions réelles. 
 Cet exercice est basé sur la vidéo https://github.com/MatthieuHanania/financial-exercices/tree/main
 
 Dans ce projet, l'évolution du portefeuille dépend de la moyenne d'évolutions des actions au cours du temps, de leurs covariance, et d'une variation aléatoire simulé chaque jour
